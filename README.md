@@ -1,11 +1,11 @@
 # HTML_CSS--YouTube
 
-![](h)
+![](https://github.com/hakeem-kim/HTML_CSS--YouTube/blob/main/image/youtube.gif?raw=true)
 
 ---
 
-![mobile](http)
+![mobile](https://github.com/hakeem-kim/HTML_CSS--YouTube/blob/main/image/mobile.png?raw=true)
 
 ---
 
-![Web]()
+![Web](https://github.com/hakeem-kim/HTML_CSS--YouTube/blob/main/image/web.png?raw=true)
