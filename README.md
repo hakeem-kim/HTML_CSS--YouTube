@@ -1,4 +1,4 @@
-# HTML_CSS--YouTube
+# HTML_CSS-YouTube
 
 ![](https://github.com/hakeem-kim/HTML_CSS--YouTube/blob/main/image/youtube.gif?raw=true)
 
